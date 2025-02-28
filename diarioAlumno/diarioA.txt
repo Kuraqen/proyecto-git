@@ -2,3 +2,6 @@
 06:30 - Trote suave
 07:00 - Ducha
 08:00 - Trabajo
+16:00 - Llegar a casa
+19:00 - Cena
+22:00 - Dormir
